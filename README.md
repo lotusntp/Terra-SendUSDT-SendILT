@@ -1,1 +1,1 @@
-﻿# Automatic send token chain Teera
+﻿# Automatic send token chain Terra
