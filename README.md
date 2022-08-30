@@ -1,4 +1,4 @@
-﻿# Automatic transfer CW20 token chain Terra using Terra .py
+﻿# Automatic transfer CW20 token using Terra .py
 วัตถุประสงค์ในการใช้งาน ให้ กระเป๋าเงินรอง ส่ง เหรียญ ILT ให้กระเป๋าเงินหลัก
 
 ## ตัวอย่างการใช้งาน
